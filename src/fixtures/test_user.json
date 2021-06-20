@@ -1,0 +1,36 @@
+[
+    {
+        "application": "users",
+        "db_model": "User",
+        "load": {
+            "user_id": 101,
+            "name": "Majid",
+            "secret_key": "54asd4a65sd",
+            "authenticated": false,
+            "foreign_key": [
+                {
+                    "application": "snmp",
+                    ...
+                    "id": 1
+                }
+            ]
+        }
+    },
+    {
+        "application": "users",
+        "db_model": "User",
+        "load": {
+            "user_id": 102,
+            "name": "ALi",
+            "secret_key": "5asd65a5sd46",
+            "authenticated": false,
+            "foreign_key": [
+                {
+                    "application": "snmp",
+                    ...
+                    "id": 2
+                }
+            ]
+        }
+    }
+]

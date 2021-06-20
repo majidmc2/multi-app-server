@@ -63,7 +63,8 @@ Install Postgresql Database >= 10:
 
 #### Change setting of sqlalchemy:
 Change applications and database settings
-Wxample apps are: 
+
+Eexample apps are: 
 - example_messages_app: It has only a table
 - example_users_app: It has only a table
 - example_UDP_app: It has a socket handler app and a table

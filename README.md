@@ -1,5 +1,5 @@
 # About
-This is a multi runner code that use when you have some different task in a our applications and want to run them at the same time. It uses SQLAlchemy for ORM and Alembic for database migrations.
+This is a multi runner code that it used when we have some different task in a our applications and want to run them at the same time. It uses SQLAlchemy for ORM and Alembic for database migrations.
 
 # Installation
 

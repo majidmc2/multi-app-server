@@ -1,5 +1,5 @@
 """
-This file is runner each application that was existed and user 'alemib' for migration managements
+This file is runner each application that was existed
 """
 
 import os
